@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MedAzizL/LeetCode/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/MedAzizL/LeetCode/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/MedAzizL/LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
