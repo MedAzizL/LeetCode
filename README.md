@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MedAzizL/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MedAzizL/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/MedAzizL/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0443-string-compression](https://github.com/MedAzizL/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/MedAzizL/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MedAzizL/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/MedAzizL/LeetCode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MedAzizL/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
