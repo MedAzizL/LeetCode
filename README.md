@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/MedAzizL/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/MedAzizL/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/MedAzizL/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MedAzizL/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MedAzizL/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MedAzizL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0907-koko-eating-bananas](https://github.com/MedAzizL/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/MedAzizL/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MedAzizL/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/MedAzizL/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MedAzizL/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/MedAzizL/LeetCode/tree/master/0525-contiguous-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MedAzizL/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MedAzizL/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MedAzizL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MedAzizL/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MedAzizL/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MedAzizL/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/MedAzizL/LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/MedAzizL/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/MedAzizL/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MedAzizL/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
