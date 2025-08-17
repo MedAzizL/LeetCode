@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/MedAzizL/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/MedAzizL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MedAzizL/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/MedAzizL/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MedAzizL/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/MedAzizL/LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/MedAzizL/LeetCode/tree/master/0724-find-pivot-index) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MedAzizL/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MedAzizL/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/MedAzizL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/MedAzizL/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0907-koko-eating-bananas](https://github.com/MedAzizL/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/MedAzizL/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MedAzizL/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/MedAzizL/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/MedAzizL/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0349-intersection-of-two-arrays](https://github.com/MedAzizL/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MedAzizL/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MedAzizL/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/MedAzizL/LeetCode/tree/master/0525-contiguous-array) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/MedAzizL/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MedAzizL/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/MedAzizL/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/MedAzizL/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1014-k-closest-points-to-origin](https://github.com/MedAzizL/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MedAzizL/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MedAzizL/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/MedAzizL/LeetCode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/MedAzizL/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/MedAzizL/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/MedAzizL/LeetCode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MedAzizL/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
