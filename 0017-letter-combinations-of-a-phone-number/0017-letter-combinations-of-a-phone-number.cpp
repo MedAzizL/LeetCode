@@ -1,5 +1,6 @@
 class Solution {
 private:
+    vector<string> res;
     map<char, vector<char>> keypad = {
         {'2', {'a', 'b', 'c'}},
         {'3', {'d', 'e', 'f'}},
@@ -10,22 +11,28 @@ private:
         {'8', {'t', 'u', 'v'}},
         {'9', {'w', 'x', 'y', 'z'}}
     };
+    void backtrack( string& digits,int index,string s){
+        
+        if( index== digits.size())
+       { res.push_back(s);
+        return;
+       }
+        
+        for(char c: keypad[digits[index]])
+        {
+            backtrack(digits,index+1,s+c);
+
+        }
+
+    }
 
 public:
     vector<string> letterCombinations(string digits) {
-        if (digits.empty()) return {};
-
-        vector<string> res = {""};
-
-        for (char d : digits) {
-            vector<string> temp;
-            for (string st : res) {
-                for (char c : keypad[d]) {
-                    temp.push_back(st + c);
-                }
-            }
-            res.swap(temp); 
-        }
+        if(digits.length()==0)
+        return {};
+        string s;
+        backtrack(digits,0,s);
         return res;
+    
     }
 };
