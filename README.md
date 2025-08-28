@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/MedAzizL/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/MedAzizL/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MedAzizL/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MedAzizL/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/MedAzizL/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MedAzizL/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MedAzizL/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/MedAzizL/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MedAzizL/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MedAzizL/LeetCode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MedAzizL/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/MedAzizL/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MedAzizL/LeetCode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/MedAzizL/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
