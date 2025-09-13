@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MedAzizL/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MedAzizL/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/MedAzizL/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/MedAzizL/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/MedAzizL/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MedAzizL/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MedAzizL/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MedAzizL/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/MedAzizL/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/MedAzizL/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MedAzizL/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/MedAzizL/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MedAzizL/LeetCode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/MedAzizL/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
