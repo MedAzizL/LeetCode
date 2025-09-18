@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/MedAzizL/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/MedAzizL/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MedAzizL/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/MedAzizL/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MedAzizL/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/MedAzizL/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MedAzizL/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/MedAzizL/LeetCode/tree/master/0525-contiguous-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MedAzizL/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/MedAzizL/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MedAzizL/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MedAzizL/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
