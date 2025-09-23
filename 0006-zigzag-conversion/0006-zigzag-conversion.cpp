@@ -2,10 +2,10 @@ class Solution {
 public:
     string convert(string s, int numRows) {
         int len = s.length();
-        if (numRows == 1) return s; // avoid division by zero
+        if (numRows == 1) return s; 
 
         int patterNum = len / (2 * numRows - 2);
-        int rem = len % (2 * numRows - 2);   // ✅ fixed remainder
+        int rem = len % (2 * numRows - 2);   
         int remCol;
         if (rem == 0)
             remCol = 0;
@@ -23,12 +23,11 @@ public:
             matrix[rowPt][colPt] = s[i];
 
             if (rowPt == 0) {
-                // top → must go down
+                
                 rowPt++;
                 continue;
             }
 
-            // ✅ protect bounds: colPt > 0, colPt+1 < numCol
             if (rowPt < numRows - 1 && matrix[rowPt-1][colPt] != '\0'  ) {
                     rowPt++;
                 }
@@ -41,7 +40,7 @@ public:
         string res;
         for (int i = 0; i < numRows; i++) {
             for (int j = 0; j < numCol; j++) {
-                if (matrix[i][j] != '\0')   // ✅ skip empty
+                if (matrix[i][j] != '\0')   
                     res += matrix[i][j];
             }
         }
