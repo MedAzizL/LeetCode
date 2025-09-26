@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/MedAzizL/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/MedAzizL/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MedAzizL/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/MedAzizL/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MedAzizL/LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/MedAzizL/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MedAzizL/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MedAzizL/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MedAzizL/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MedAzizL/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/MedAzizL/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MedAzizL/LeetCode/tree/master/0525-contiguous-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MedAzizL/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MedAzizL/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MedAzizL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MedAzizL/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/MedAzizL/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MedAzizL/LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/MedAzizL/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/MedAzizL/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MedAzizL/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MedAzizL/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/MedAzizL/LeetCode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/MedAzizL/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/MedAzizL/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MedAzizL/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Geometry
