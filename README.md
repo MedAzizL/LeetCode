@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/MedAzizL/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/MedAzizL/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/MedAzizL/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1020-longest-turbulent-subarray](https://github.com/MedAzizL/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/MedAzizL/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MedAzizL/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MedAzizL/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MedAzizL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/MedAzizL/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1020-longest-turbulent-subarray](https://github.com/MedAzizL/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/MedAzizL/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MedAzizL/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MedAzizL/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/MedAzizL/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/MedAzizL/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [1020-longest-turbulent-subarray](https://github.com/MedAzizL/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 ## Memoization
 |  |
 | ------- |
