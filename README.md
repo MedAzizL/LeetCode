@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/MedAzizL/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MedAzizL/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MedAzizL/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MedAzizL/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MedAzizL/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/MedAzizL/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/MedAzizL/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/MedAzizL/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MedAzizL/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MedAzizL/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MedAzizL/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2102-find-the-middle-index-in-array](https://github.com/MedAzizL/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Math
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/MedAzizL/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/MedAzizL/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MedAzizL/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MedAzizL/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Geometry
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/MedAzizL/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/MedAzizL/LeetCode/tree/master/1020-longest-turbulent-subarray) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MedAzizL/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
 | ------- |
