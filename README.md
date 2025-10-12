@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MedAzizL/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MedAzizL/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/MedAzizL/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3379-score-of-a-string](https://github.com/MedAzizL/LeetCode/tree/master/3379-score-of-a-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MedAzizL/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3707-find-the-most-common-response](https://github.com/MedAzizL/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## Sorting
