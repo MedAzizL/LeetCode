@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MedAzizL/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MedAzizL/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/MedAzizL/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3379-score-of-a-string](https://github.com/MedAzizL/LeetCode/tree/master/3379-score-of-a-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MedAzizL/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3707-find-the-most-common-response](https://github.com/MedAzizL/LeetCode/tree/master/3707-find-the-most-common-response) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/MedAzizL/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/MedAzizL/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MedAzizL/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/MedAzizL/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0605-can-place-flowers](https://github.com/MedAzizL/LeetCode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/MedAzizL/LeetCode/tree/master/0917-boats-to-save-people) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Matrix
 |  |
 | ------- |
