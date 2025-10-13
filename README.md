@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MedAzizL/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MedAzizL/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1803-average-waiting-time](https://github.com/MedAzizL/LeetCode/tree/master/1803-average-waiting-time) |
 | [2102-find-the-middle-index-in-array](https://github.com/MedAzizL/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/MedAzizL/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3707-find-the-most-common-response](https://github.com/MedAzizL/LeetCode/tree/master/3707-find-the-most-common-response) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MedAzizL/LeetCode/tree/master/0067-add-binary) |
+| [1803-average-waiting-time](https://github.com/MedAzizL/LeetCode/tree/master/1803-average-waiting-time) |
 | [2428-equal-row-and-column-pairs](https://github.com/MedAzizL/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/MedAzizL/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Breadth-First Search
