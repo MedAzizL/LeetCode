@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/MedAzizL/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/MedAzizL/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2487-optimal-partition-of-string](https://github.com/MedAzizL/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MedAzizL/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/MedAzizL/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MedAzizL/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/MedAzizL/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MedAzizL/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2470-removing-stars-from-a-string](https://github.com/MedAzizL/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2487-optimal-partition-of-string](https://github.com/MedAzizL/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MedAzizL/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/MedAzizL/LeetCode/tree/master/3379-score-of-a-string) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/MedAzizL/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0605-can-place-flowers](https://github.com/MedAzizL/LeetCode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/MedAzizL/LeetCode/tree/master/0917-boats-to-save-people) |
+| [2487-optimal-partition-of-string](https://github.com/MedAzizL/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/MedAzizL/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Matrix
