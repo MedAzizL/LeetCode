@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/MedAzizL/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/MedAzizL/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MedAzizL/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/MedAzizL/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MedAzizL/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3707-find-the-most-common-response](https://github.com/MedAzizL/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MedAzizL/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/MedAzizL/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MedAzizL/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/MedAzizL/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MedAzizL/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3707-find-the-most-common-response](https://github.com/MedAzizL/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## String
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MedAzizL/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MedAzizL/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/MedAzizL/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3707-find-the-most-common-response](https://github.com/MedAzizL/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## Divide and Conquer
 |  |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/MedAzizL/LeetCode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/MedAzizL/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/MedAzizL/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Matrix
 |  |
 | ------- |
