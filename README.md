@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/MedAzizL/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MedAzizL/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/MedAzizL/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/MedAzizL/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MedAzizL/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3707-find-the-most-common-response](https://github.com/MedAzizL/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MedAzizL/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/MedAzizL/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MedAzizL/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MedAzizL/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/MedAzizL/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/MedAzizL/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/MedAzizL/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/MedAzizL/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Matrix
 |  |
 | ------- |
