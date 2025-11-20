@@ -382,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MedAzizL/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/MedAzizL/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
