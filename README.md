@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/MedAzizL/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/MedAzizL/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/MedAzizL/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0481-magical-string](https://github.com/MedAzizL/LeetCode/tree/master/0481-magical-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/MedAzizL/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/MedAzizL/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/MedAzizL/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MedAzizL/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/MedAzizL/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MedAzizL/LeetCode/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/MedAzizL/LeetCode/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/MedAzizL/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/MedAzizL/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/MedAzizL/LeetCode/tree/master/0917-boats-to-save-people) |
