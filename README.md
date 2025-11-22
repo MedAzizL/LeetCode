@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MedAzizL/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/MedAzizL/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/MedAzizL/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/MedAzizL/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MedAzizL/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/MedAzizL/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MedAzizL/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MedAzizL/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MedAzizL/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/MedAzizL/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/MedAzizL/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/MedAzizL/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/MedAzizL/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/MedAzizL/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MedAzizL/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MedAzizL/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MedAzizL/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MedAzizL/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
