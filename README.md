@@ -409,5 +409,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/MedAzizL/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1045-customers-who-bought-all-products](https://github.com/MedAzizL/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/MedAzizL/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1934-confirmation-rate](https://github.com/MedAzizL/LeetCode/tree/master/1934-confirmation-rate) |
 | [3570-find-books-with-no-available-copies](https://github.com/MedAzizL/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
